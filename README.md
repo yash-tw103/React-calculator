@@ -1,3 +1,8 @@
+#Calculator Web App
+ - The src folder contains App.js which contains all the funtionality.
+ - App.css conatins the design of our web App
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
