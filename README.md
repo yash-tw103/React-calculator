@@ -1,4 +1,4 @@
-#Calculator Web App
+# Calculator Web App
  - The src folder contains App.js which contains all the funtionality.
  - App.css conatins the design of our web App
 
